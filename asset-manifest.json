@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kavishri21/grocery_list_react/static/css/main.e9043b74.css",
+    "main.js": "/Kavishri21/grocery_list_react/static/js/main.1929b34c.js",
+    "index.html": "/Kavishri21/grocery_list_react/index.html",
+    "main.e9043b74.css.map": "/Kavishri21/grocery_list_react/static/css/main.e9043b74.css.map",
+    "main.1929b34c.js.map": "/Kavishri21/grocery_list_react/static/js/main.1929b34c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9043b74.css",
+    "static/js/main.1929b34c.js"
+  ]
+}
